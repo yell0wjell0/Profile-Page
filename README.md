@@ -1,6 +1,6 @@
 # profile_page
 
-A basic profile page implemented in flutter.
+A basic profile page implemented in flutter with VS Code.
 
 ## Additional Notes
 
